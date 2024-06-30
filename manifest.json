@@ -1,0 +1,7 @@
+{
+    "domain": "blaupunkt_S1111TB",
+    "name": "Blaupunkt Moby Blue S 1111 TB",
+    "requirements": ["tinytuya==1.14.0"],
+    "iot_class": "local_polling",
+    "version": "0.0.1"
+}
